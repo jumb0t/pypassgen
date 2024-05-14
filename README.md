@@ -4,8 +4,6 @@ PyPassGen is a Python code that facilitates the generation of secure passwords f
 
 ![running on linux](https://github.com/jumb0t/pypassgen/blob/main/screenshot.png)
 
-![running on android](https://github.com/jumb0t/pypassgen/blob/main/screenshot2.jpg)
-
 
 ## Features
 
@@ -38,7 +36,7 @@ If Python is not already installed on your Linux system, you can install it usin
   sudo apt update
   sudo apt install python3
   ```
-### Step 3: Clone the Project Repository
+### Step 2: Clone the Project Repository
 
 Clone the CryptoMnemonicPassword project repository from GitHub using git:
   ```bash
@@ -48,7 +46,7 @@ Clone the CryptoMnemonicPassword project repository from GitHub using git:
 
 
 
-### Step 4: Run Example Script
+### Step 3: Run Example Script
 
 Navigate to the examples directory and run the example script to generate a password from a mnemonic phrase:
 
@@ -59,7 +57,7 @@ Navigate to the examples directory and run the example script to generate a pass
 
 This will execute the example_usage.py script, demonstrating how to use the CryptoMnemonicPassword library to generate passwords from mnemonic phrases.
 
-### Step 5: Customize and Integrate
+### Step 4: Customize and Integrate
 
 Integrate the CryptoMnemonicPassword library into your own Python projects by importing crypto_mnemonic_password and using the generate_password_from_mnemonic function with your desired parameters.
 
@@ -78,6 +76,9 @@ Adjust the `mnemonic_phrase`, `password_length`, and `use_symbols` parameters as
 # Running PyPassGen on Android with Termux
 
 This guide demonstrates how to install and run the PyPassGen Python library on an Android device using Termux. PyPassGen allows you to generate secure passwords from mnemonic phrases using BIP39 seed derivation and PBKDF2-HMAC-SHA512 key derivation.
+
+![running on android](https://github.com/jumb0t/pypassgen/blob/main/screenshot2.jpg)
+
 
 ## Prerequisites
 
