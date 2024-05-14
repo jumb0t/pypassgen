@@ -1,6 +1,6 @@
 # PyPassGen
 
-PyPassGen is a Python library that facilitates the generation of secure passwords from mnemonic phrases using BIP39 seed derivation and PBKDF2-HMAC-SHA512 key derivation. This library is designed to provide a reliable and efficient method for generating strong passwords based on mnemonic phrases, which are commonly used in cryptocurrency wallets and other secure applications.
+PyPassGen is a Python code that facilitates the generation of secure passwords from mnemonic phrases using BIP39 seed derivation and PBKDF2-HMAC-SHA512 key derivation. This code is designed to provide a reliable and efficient method for generating strong passwords based on mnemonic phrases, which are commonly used in cryptocurrency wallets and other secure applications.
 
 ![running on linux](https://github.com/jumb0t/pypassgen/blob/main/screenshot.png)
 
