@@ -53,7 +53,7 @@ def generate_password_from_mnemonic(mnemonic_phrase, password_length=12, use_sym
     return ''.join(password)
 
 # Example usage
-mnemonic_phrase = "example twelve word mnemonic phrase here example twelve word mnemonic phrase here"
+mnemonic_phrase = "drama coral never fluid require pole attend liar fun hammer hurt match update scare garbage pluck scrap valve catch primary basic borrow believe safe"
 password_length = 32
 
 try:
