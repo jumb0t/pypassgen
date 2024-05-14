@@ -4,7 +4,7 @@ PyPassGen is a Python code that facilitates the generation of secure passwords f
 
 ![running on linux](https://github.com/jumb0t/pypassgen/blob/main/screenshot.png)
 
-![running on android](https://github.com/jumb0t/pypassgen/blob/main/screenshot2.png)
+![running on android](https://github.com/jumb0t/pypassgen/blob/main/screenshot2.jpg)
 
 
 ## Features
