@@ -70,9 +70,9 @@ Adjust the `mnemonic_phrase`, `password_length`, and `use_symbols` parameters as
 
 
 
-# Running CryptoPasswordGenerator on Android with Termux
+# Running PyPassGen on Android with Termux
 
-This guide demonstrates how to install and run the CryptoPasswordGenerator Python library on an Android device using Termux. CryptoPasswordGenerator allows you to generate secure passwords from mnemonic phrases using BIP39 seed derivation and PBKDF2-HMAC-SHA512 key derivation.
+This guide demonstrates how to install and run the PyPassGen Python library on an Android device using Termux. PyPassGen allows you to generate secure passwords from mnemonic phrases using BIP39 seed derivation and PBKDF2-HMAC-SHA512 key derivation.
 
 ## Prerequisites
 
@@ -104,22 +104,22 @@ Before proceeding, ensure you have the following prerequisites installed on your
      pip install mnemonic colorama
      ```
 
-5. **Clone the CryptoPasswordGenerator Repository**:
-   - Clone the CryptoPasswordGenerator project repository from GitHub using `git`:
+5. **Clone the PyPassGen Repository**:
+   - Clone the PyPassGen project repository from GitHub using `git`:
      ```bash
      pkg install git
-     git clone https://github.com/your_username/cryptopasswordgenerator.git
-     cd cryptopasswordgenerator
+     git clone https://github.com/jumb0t/pypassgen
+     cd pypassgen
      ```
 
-## Running CryptoPasswordGenerator
+## Running PyPassGen
 
-After completing the installation steps, you can run the CryptoPasswordGenerator library to generate passwords from mnemonic phrases.
+After completing the installation steps, you can run the PyPassGen library to generate passwords from mnemonic phrases.
 
 1. **Navigate to the Project Directory**:
-   - Change to the directory containing the CryptoPasswordGenerator files:
+   - Change to the directory containing the PyPassGen files:
      ```bash
-     cd cryptopasswordgenerator
+     cd pypassgen
      ```
 
 2. **Run the Example Script**:
@@ -128,7 +128,7 @@ After completing the installation steps, you can run the CryptoPasswordGenerator
      python example_usage.py
      ```
 
-   This will demonstrate how to use the CryptoPasswordGenerator library on your Android device with Termux.
+   This will demonstrate how to use the PyPassGen library on your Android device with Termux.
 
 ## Customization and Integration
 
