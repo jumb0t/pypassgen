@@ -37,8 +37,8 @@ If Python is not already installed on your Linux system, you can install it usin
 
 Clone the CryptoMnemonicPassword project repository from GitHub using git:
   ```bash
-  git clone https://github.com/your_username/cryptomnemonicpassword.git
-  cd cryptomnemonicpassword
+  git clone https://github.com/jumb0t/pypassgen
+  cd pypassgen
   ```
 
 
